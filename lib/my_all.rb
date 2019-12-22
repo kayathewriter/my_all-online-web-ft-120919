@@ -1,5 +1,7 @@
 require 'pry'
 
 def my_all?(collection)
-
-end
+  index = 0
+  
+  while index < (collection[index]
+ end
